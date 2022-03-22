@@ -1,0 +1,40 @@
+body {
+    margin: 1;
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 17px;
+    color: black;
+    line-height: 1.6;
+}
+
+{
+    box-sizing: border-box;
+}
+
+
+.fon {
+    display: flex;
+    width: 1895px;
+    height: 1000px;
+    background-color: blanchedalmond;
+    
+}
+.m{margin: 0;
+    padding-left: 0px;
+    width: 50%;}
+.luck{float: right;
+margin-top: 120px;
+text-align: center;}
+.title{ font-size: 48px; 
+    }
+
+.title:after {
+    
+    content: "";
+    display: block;
+    width: 160px;
+    height: 3px;
+    background-color:orange;
+    margin: 10px auto 0;
+}
+
+
